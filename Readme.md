@@ -1,7 +1,9 @@
-# Credit Card Fraud Detection Dashboard
-
 ## 📌 Project Overview
 This project is a **Streamlit-based interactive dashboard** designed to analyze and visualize credit card transactions, specifically focusing on fraud detection. The dataset used contains real-world credit card transaction data labeled as either fraudulent or non-fraudulent.
+
+### 📍 Dashboard Link
+You can visualize the dashboard at the following link:
+[Credit Card Fraud Detection Dashboard](https://credit-card-fraud-dashboard-wbwnshzb8tdmuhisfejuqx.streamlit.app/#)
 
 ## 🚀 Features
 - **Dynamic Filtering**: Adjust transaction time, amount, and fraud class to explore data.
@@ -43,7 +45,7 @@ The dataset used is `creditcard.csv`, which contains:
 Created by **Fofana Ibrahim Seloh**. Connect with me on LinkedIn:
 - [Fofana Ibrahim Seloh](https://www.linkedin.com/in/ibrahim-seloh-fofana-6073b4291/)
 
-## 🏗️ Future Improvements
+## 🏰️ Future Improvements
 - Implement a **machine learning model** for fraud prediction.
 - Add a **real-time detection system** with live transaction feeds.
 - Enhance the UI with more advanced **interactive visualizations**.
